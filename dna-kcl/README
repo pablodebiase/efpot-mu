@@ -1,4 +1,4 @@
-Interaction Effective Potentials and Excess Chemical Potential examples for BROMOC
+Interaction Effective Potentials and Excess Chemical Potentials examples for BROMOC
 
 System: DNA + KCl
 
